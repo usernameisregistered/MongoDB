@@ -1,0 +1,15 @@
+{
+  "name": "mongowebservice",
+  "version": "1.0.0",
+  "description": "这是mongodb的服务端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "usernameisregistered",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
